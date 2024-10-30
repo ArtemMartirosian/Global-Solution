@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "ru": "Всё для удобства и комфорта сотрудников!",
+      "uz": "статья на узбекском",
+      "en": "статья на английском"
+    },
+    "description": {
+      "ru": "Мы заботимся о наших сотрудниках, и особенно об их комфорте и нашей рабочей атмосфере. Для наших сотрудников мы сделали ремонт подвала и создали в нем зону ",
+      "uz": "описание на узбекском",
+      "en": "описание на английском"
+    },
+    "createdAt": "2022-03-21",
+    "photo": {
+      "src": "https://javasea.ru/uploads/posts/2021-09/1632834474_art_-morda-lva-vo-mrake22.jpg"
+    },
+    "author": [{
+      "id": 1,
+      "name": {
+        "ru": "Алишер Алишеров",
+        "uz": "Alisher Alisherov",
+        "en": "Alisher Alisherov"
+      },
+      "photo": {
+        "src": "https://klike.net/uploads/posts/2020-08/1597994286_2.jpg"
+      },
+      "position": {
+        "ru": "Программист",
+        "uz": "Dasturchi",
+        "en": "Programmer"
+      }
+    }]
+  },
+  {
+    "id": 2,
+    "title": {
+      "ru": "статья на русском1",
+      "uz": "статья на узбекском1",
+      "en": "статья на английском1"
+    },
+    "description": {
+      "ru": "описание на русском1",
+      "uz": "описание на узбекском1",
+      "en": "описание на английском1"
+    },
+    "createdAt": "2022-03-22",
+    "photo": {
+      "src": "https://avatarko.ru/img/kartinka/33/multfilm_lyagushka_32117.jpg"
+    },
+    "author": [{
+      "id": 2,
+      "name": {
+        "ru": "Алишер Алишеров",
+        "uz": "Alisher Alisherov",
+        "en": "Alisher Alisherov"
+      },
+      "photo": {
+        "src": "https://basetop.ru/wp-content/uploads/2019/11/Hose-696x392.jpg"
+      },
+      "position": {
+        "ru": "Программист",
+        "uz": "Dasturchi",
+        "en": "Programmer"
+      }
+    },
+      {
+        "id": 3,
+        "name": {
+          "ru": "Серафим Серафимов",
+          "uz": "Serafimov Serafim",
+          "en": "Serafimov Serafim"
+        },
+        "photo": {
+          "src": "https://wl-adme.cf.tsp.li/resize/728x/jpg/a51/8fa/c450dc5f3ca886f517455134d7.jpg"
+        },
+        "position": {
+          "ru": "Программист",
+          "uz": "Dasturchi",
+          "en": "Programmer"
+        }
+      }]
+  },
+  {
+    "id": 3,
+    "title": {
+      "ru": "статья на русском2",
+      "uz": "статья на узбекском2",
+      "en": "статья на английском2"
+    },
+    "description": {
+      "ru": "описание на русском2",
+      "uz": "описание на узбекском2",
+      "en": "описание на английском2"
+    },
+    "createdAt": "2022-03-23",
+    "photo": {
+      "src": "http://sun9-86.userapi.com/sun9-81/s/v1/if1/zO5oA6Nt-lyk_mEjEBH6ZJFSg4-xMggN9oiad_4UG317hI8rrDYNu0fNPHbXsymcIlKr5ADD.jpg?size=200x219&quality=96&crop=20,0,420,460&ava=1"
+    },
+    "author": [{
+      "id": 1,
+      "name": {
+        "ru": "Алишер Алишеров",
+        "uz": "Alisher Alisherov",
+        "en": "Alisher Alisherov"
+      },
+      "photo": {
+        "src": "https://klike.net/uploads/posts/2020-08/1597994286_2.jpg"
+      },
+      "position": {
+        "ru": "Программист",
+        "uz": "Dasturchi",
+        "en": "Programmer"
+      }
+    }]
+  },
+  {
+    "id": 4,
+    "title": {
+      "ru": "статья на русском3",
+      "uz": "статья на узбекском3",
+      "en": "статья на английском3"
+    },
+    "description": {
+      "ru": "описание на русском3",
+      "uz": "описание на узбекском3",
+      "en": "описание на английском3"
+    },
+    "createdAt": "2022-03-24",
+    "photo": {
+      "src": "https://papik.pro/uploads/posts/2021-09/1631985021_13-papik-pro-p-krutie-risunki-dlya-patsanov-13.jpg"
+    },
+    "author": [{
+      "id": 1,
+      "name": {
+        "ru": "Алишер Алишеров",
+        "uz": "Alisher Alisherov",
+        "en": "Alisher Alisherov"
+      },
+      "photo": {
+        "src": "https://klike.net/uploads/posts/2020-08/1597994286_2.jpg"
+      },
+      "position": {
+        "ru": "Программист",
+        "uz": "Dasturchi",
+        "en": "Programmer"
+      }
+    }]
+  }
+]

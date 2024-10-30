@@ -1,0 +1,75 @@
+#bitbucket-pipelines.yml
+image: node:14.15.3
+
+pipelines:
+  branches:
+    master:
+      - step:
+          name: Build Global Web Frontend Prod
+          caches:
+            - node
+          script:
+            - npm install
+            - npm run-script build:prod
+            - mkdir packaged
+            - tar -czvf packaged/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C build .
+          artifacts:
+            - packaged/**
+      - step:
+          name: Deploy to global.uz
+          image: alpine
+          deployment: production
+          script:
+            - pipe: atlassian/ssh-run:0.3.0
+              variables:
+                SSH_USER: $USER
+                SERVER: $SERVER
+                MODE: 'command'
+                COMMAND: 'rm -rf /var/www/global.uz/*'
+            - pipe: atlassian/scp-deploy:0.3.13
+              variables:
+                USER: $USER
+                SERVER: $SERVER
+                REMOTE_PATH: '/var/www/global.uz'
+                LOCAL_PATH: 'packaged/package-${BITBUCKET_BUILD_NUMBER}.tar.gz'
+            - pipe: atlassian/ssh-run:0.3.0
+              variables:
+                SSH_USER: $USER
+                SERVER: $SERVER
+                MODE: 'command'
+                COMMAND: 'cd /var/www/global.uz/ && tar -xf package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C .'
+    dev:
+      - step:
+          name: Build Global Web Frontend Dev
+          caches:
+            - node
+          script:
+            - npm install
+            - npm run-script build:dev
+            - mkdir packaged
+            - tar -czvf packaged/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C build .
+          artifacts:
+            - packaged/**
+      - step:
+          name: Deploy to gs.globaltrans.uz
+          image: alpine
+          deployment: test
+          script:
+            - pipe: atlassian/ssh-run:0.3.0
+              variables:
+                SSH_USER: $USER
+                SERVER: $DEVSERVER
+                MODE: 'command'
+                COMMAND: 'rm -rf /var/www/gs.globaltrans.uz/*'
+            - pipe: atlassian/scp-deploy:0.3.13
+              variables:
+                USER: $USER
+                SERVER: $DEVSERVER
+                REMOTE_PATH: '/var/www/gs.globaltrans.uz'
+                LOCAL_PATH: 'packaged/package-${BITBUCKET_BUILD_NUMBER}.tar.gz'
+            - pipe: atlassian/ssh-run:0.3.0
+              variables:
+                SSH_USER: $USER
+                SERVER: $DEVSERVER
+                MODE: 'command'
+                COMMAND: 'cd /var/www/gs.globaltrans.uz/ && tar -xf package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C . && cp /var/www/robots.txt /var/www/gs.globaltrans.uz/'

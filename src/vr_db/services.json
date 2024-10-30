@@ -1,0 +1,448 @@
+[
+  {
+    "title": "Development",
+    "key": "global",
+    "article": [
+      {
+        "id": 5,
+        "title": "Проектная документация",
+        "author": "Global solutions",
+        "reading": {
+          "ru": "1 мин чтения",
+          "uz": "1 daqiqalar o'qish",
+          "en": "1 min of reading"
+        },
+        "subtitle": {
+          "ru": "Банкам, кредитным организациям",
+          "uz": "Banklar, kredit tashkilotlariga",
+          "en": "To banks, credit organizations"
+        },
+        "description": {
+          "ru": "Проектная документация",
+          "uz": "Loyiha hujjatlari",
+          "en": "Project documentation"
+        },
+        "image": {
+          "ru": "/images/services/project_doc.jpg",
+          "uz": "/images/services/project_docUz.jpg",
+          "en": "/images/services/project_docEn.jpg"
+        },
+        "date": {
+          "ru": "05 мая 2022 года, 11:20",
+          "uz": "05 may 2022, 11:20",
+          "en": "05 may 2022, 11:20"
+        },
+        "tag": {
+          "ru": "Разработка",
+          "uz": "Rivojlanish",
+          "en": "Development"
+        },
+        "content": {
+          "ru": "     <div>                    <h3>                                Проектная документация                            </h3>                            <p>                                Проектная документация является одним из важнейших элементов успешной реализации                                проекта. Это документ, в котором описываются все аспекты проекта, начиная от его целей и                                задач и заканчивая конечным результатом. Проектная документация включает в себя                                несколько этапов: предварительный анализ, концепция проекта, техническое задание,                                руководство пользователя и т.д.                            </p>                            <h3>                                Этапы проектной документации                            </h3>                            <p>                                Предварительный анализ является первым этапом проектной документации. Он позволяет  понять потребности заказчика и определить основные задачи и цели проекта. На этом этапе                                проводится анализ конкурентов, исследуется рынок, а также определяются потребности                                пользователей. Этот этап является важным, так как именно от правильно поставленного                                предварительного анализа зависит успешность всего проекта.                            </p>                            <p>                                На следующем этапе, который называется концепция проекта, происходит проработка                                концепции                                проекта. Здесь определяется идея проекта, его основные преимущества, уникальность и                                другие ключевые аспекты. Этот этап помогает заказчику более четко представить, что он                                хочет получить в результате реализации проекта.                            </p>                            <p>                                Техническое задание - это документ, в котором описываются все детали проекта: цели,                                задачи, юзер стори, бизнес-процессы, архитектура, наработки по интерфейсу и т.д. В                                техническом задании также должны быть указаны сроки реализации проекта и стоимость. Он                                является ключевым документом в процессе реализации проекта и должен быть составлен                                максимально четко и понятно.                            </p>                            <p>                                После написания технического задания следует этап разработки, на котором происходит                                создание конечного продукта. На этом этапе используются различные технологии и методы                                разработки. Важно отметить, что весь процесс разработки должен быть документирован и                                включен в проектную документацию.                            </p>                            <p>                                Наконец, последний этап проектной документации - это руководство пользователя. Это                                документ, который позволяет пользователям легко понимать, как использовать созданный                                продукт.                            </p>                        </div>",
+          "uz": "   <div>                            <h3>                                Loyiha hujjatlari                            </h3>                            <p>                                Loyiha hujjatlari loyihani muvaffaqiyatli amalga oshirishning eng muhim elementlaridan                                biridir. Bu loyihaning maqsadlari va vazifalaridan tortib yakuniy natijalarigacha                                bo'lgan barcha jihatlarini tavsiflovchi hujjat. Loyiha hujjatlari bir necha bosqichlarni                                o'z ichiga oladi: dastlabki tahlil, loyiha kontseptsiyasi, texnik topshiriq,                                foydalanuvchi qo'llanmasi va boshqalar.                            </p>                            <h3>                                Loyiha hujjatlari bosqichlari                            </h3>                            <p>                                Dastlabki tahlil loyiha hujjatlarining birinchi bosqichidir. Bu sizga mijozning                                ehtiyojlarini tushunishga va loyihaning asosiy vazifalari va maqsadlarini aniqlashga                                imkon beradi. Ushbu bosqichda raqobatchilar tahlili o'tkaziladi, bozor o'rganiladi va                                foydalanuvchilarning ehtiyojlari ham aniqlanadi. Ushbu bosqich juda muhimdir, chunki                                butun loyihaning muvaffaqiyati to'g'ri joylashtirilgan dastlabki tahlilga bog'liq.                            </p>                            <p>                                Loyiha kontseptsiyasi deb nomlangan keyingi bosqichda loyiha kontseptsiyasi ishlab                                chiqiladi. Bu erda loyihaning g'oyasi, uning asosiy afzalliklari, o'ziga xosligi va                                boshqa asosiy jihatlari aniqlanadi. Ushbu bosqich mijozga loyihani amalga oshirish                                natijasida nimani olishni xohlashini aniqroq tasavvur qilishga yordam beradi.                            </p>                            <p>                                Texnik topshiriq-bu loyihaning barcha tafsilotlarini tavsiflovchi hujjat: maqsadlar,                                vazifalar, foydalanuvchi tarixi, biznes-jarayonlar, arxitektura, interfeysdagi                                ishlanmalar va boshqalar. Bu loyihani amalga oshirish jarayonida asosiy hujjat bo'lib,                                iloji boricha aniq va aniq tuzilishi kerak.                            </p>                            <p>                                <strong>Iltimos, diqqat qiling:</strong> texnik topshiriqni yozgandan so'ng, yakuniy                                mahsulot                                yaratiladigan rivojlanish bosqichi keladi. Ushbu bosqichda turli xil texnologiyalar va                                ishlab chiqish usullari qo'llaniladi. Shuni ta'kidlash kerakki, butun rivojlanish                                jarayoni hujjatlashtirilishi va loyiha hujjatlariga kiritilishi kerak.                            </p>                            <p>                                Va nihoyat, loyiha hujjatlarining oxirgi bosqichi foydalanuvchi qo'llanmasidir. Bu                                foydalanuvchilarga yaratilgan mahsulotdan qanday foydalanishni tushunishni                                osonlashtiradigan hujjat.                            </p>                        </div>",
+          "en": "<div>                            <h3>                                Project documentation                            </h3>                            <p>                                Project documentation is one of the most important elements of successful project                                implementation. This is a document that describes all aspects of the project, starting                                from its goals and objectives and ending with the final result. The project                                documentation includes several stages: preliminary analysis, project concept, terms of                                reference, user manual, etc.                            </p>                            <h3>                                Stages of project documentation                            </h3>                            <p>                                Preliminary analysis is the first stage of the project documentation. It allows you to understand the needs of the customer and determine the main tasks and goals of the project. At this stage, competitors are analyzed, the market is investigated, and user needs are determined. This stage is important, since the success of the entire project depends on the correct preliminary analysis.                            </p>                            <p>                                At the next stage, which is called the project concept, the project concept is worked out. It defines the idea of the project, its main advantages, uniqueness and other key aspects. This stage helps the customer to more clearly imagine what he wants to get as a result of the project.                            </p>                            <p>                                The terms of reference is a document that describes all the details of the project: goals, objectives, user stories, business processes, architecture, interface developments, etc. The terms of reference should also specify the terms of implementation of the project and the cost. It is a key document in the process of project implementation and should be drawn up as clearly and clearly as possible.                            </p>                            <p>                                Please note: after writing the terms of reference, the development stage follows, at which the final product is created. At this stage, various technologies and development methods are used. It is important to note that the entire development process should be documented and included in the project documentation.                            </p>                            <p>                                Finally, the last stage of the project documentation is the user manual. This is a document that allows users to easily understand how to use the created product.                            </p>                        </div>"
+        },
+        "path":"/services/"
+      },
+      {
+        "id": 4,
+        "title": "Проектирование архитектуры систем",
+        "author": "Global solutions",
+        "reading": {
+          "ru": "2 мин чтения",
+          "uz": "2 daqiqalar o'qish",
+          "en": "2 min of reading"
+        },
+        "subtitle": {
+          "ru": "Банкам, кредитным организациям",
+          "uz": "Banklar, kredit tashkilotlariga",
+          "en": "To banks, credit organizations"
+        },
+        "description": {
+          "ru": "Проектирование архитектуры систем",
+          "uz": "Tizimlar arxitekturasini loyihalash",
+          "en": "System architecture design"
+        },
+        "image": {
+          "ru": "/images/services/creating_architecht.jpg",
+          "uz": "/images/services/creating_architechtUz.jpg",
+          "en": "/images/services/creating_architechtEn.jpg"
+        },
+        "date": {
+          "ru": "08 мая 2022 года, 09:40",
+          "uz": "08 may 2022, 09:40",
+          "en": "08 may 2022, 09:40"
+        },
+        "tag": {
+          "ru": "Разработка",
+          "uz": "Rivojlanish",
+          "en": "Development"
+        },
+        "content": {
+          "ru": "    <div>                            <h3>                                Проектирование архитектуры систем                            </h3>                            <p>                                IT-консалтинг является одним из ключевых направлений работы компании Global Solutions.                            </p>                            <p>                                Наши эксперты обладают широким опытом и знаниями в области информационных технологий, что позволяет нам предоставлять профессиональные консультационные услуги на высоком уровне.                            </p>                            <h3>                                Проектирование архитектуры систем                            </h3>                            <p>                                Проектирование архитектуры систем - это процесс создания детального плана структуры и функционирования системы, который позволяет ее эффективно разрабатывать, развертывать, использовать и поддерживать. Проектирование архитектуры системы является ключевым этапом в жизненном цикле разработки ПО. В современных условиях существует множество подходов и технологий, которые могут быть использованы при проектировании архитектуры системы. Среди них - монолитные и микросервисные архитектуры, контейнеризация, серверные и облачные вычисления, базы данных и многое другое.                            </p>                            <h3>                                Факторы эффективности                            </h3>                            <p>                                При проектировании архитектуры системы необходимо учитывать ряд факторов, которые могут повлиять на эффективность ее работы. Среди них: Функциональные требования - это те требования, которые предъявляются к системе в плане ее функциональности. Необходимо определить, какие задачи система должна выполнять и какие возможности должны быть реализованы.                            </p>                            <p>                                Нефункциональные требования - это требования, которые не связаны с функциональностью системы, но могут влиять на ее работу. К ним относятся требования к производительности, надежности, масштабируемости, безопасности и т.д.Архитектурные паттерны - это шаблоны проектирования, которые используются для создания эффективных и устойчивых систем. Среди них - слоистая архитектура, MVC, MVP, MVVM, Event-Driven архитектура и др.                            </p>                            <p>                                Технологии и платформы - выбор технологий и платформ зависит от многих факторов, таких как доступность, стоимость, масштабируемость, производительность и др.                            </p>                            <p>                                Бизнес-требования - важно учитывать бизнес-требования, такие как стоимость разработки, время на рынке, конкурентоспособность и т.д.Нагрузка - важно учитывать планируемую нагрузку на систему и выбирать архитектуру, которая сможет справиться с этой нагрузкой. В зависимости от задачи и требований можно выбрать подходящую архитектуру для системы.                            </p>                        </div>",
+          "uz": "<div>                            <h3>                                Tizimlar arxitekturasini loyihalash                            </h3>                            <p>                                Tizim arxitekturasini loyihalash-bu tizimning tuzilishi va ishlashi uchun batafsil                                rejani yaratish jarayoni bo'lib, uni samarali ishlab chiqish, joylashtirish, ishlatish                                va saqlashga imkon beradi. Tizim arxitekturasini loyihalash dasturiy ta'minotni ishlab                                chiqish hayot tsiklining asosiy bosqichidir. </p>                            <p>                                Zamonaviy sharoitda tizim arxitekturasini loyihalashda ishlatilishi mumkin bo'lgan                                ko'plab yondashuvlar va texnologiyalar mavjud. Ular orasida monolit va mikroservis                                arxitekturalari, konteynerlashtirish, server va bulutli hisoblash, ma'lumotlar bazalari                                va boshqalar mavjud. </p>                            <h3>                                Samaradorlik omillari                            </h3>                            <p>                                Tizim arxitekturasini loyihalashda uning ishlashiga ta'sir qilishi mumkin bo'lgan bir                                qator omillarni hisobga olish kerak. Ular orasida:                            </p>                            <ul>                                <li>                                    Funktsional talablar-bu tizimga uning funktsionalligi nuqtai nazaridan qo'yiladigan                                    talablar. Tizim qanday vazifalarni bajarishi kerakligini va qanday imkoniyatlarni                                    amalga oshirish kerakligini aniqlash kerak.                                </li>                                <li>                                    Funktsional bo'lmagan talablar-bu tizimning funksionalligi bilan bog'liq bo'lmagan,                                    ammo uning ishlashiga ta'sir qilishi mumkin bo'lgan talablar. Bularga ishlash,                                    ishonchlilik, miqyoslilik, xavfsizlik va boshqalar talablari kiradi.                                </li>                                <li>                                    Arxitektura naqshlari-bu samarali va barqaror tizimlarni yaratish uchun ishlatiladigan dizayn naqshlari. Ular orasida qatlamli arxitektura, MVC, MVP, MVVM, Event-Driven arxitektura va boshqalar mavjud.                                </li>                                <li>                                    Texnologiyalar va platformalar-texnologiyalar va platformalarni tanlash ko'plab omillarga bog'liq, masalan, mavjudlik, narx, miqyoslilik, ishlash va boshqalar.                                </li>                                <li>                                    Biznes talablari-rivojlanish qiymati, bozor vaqti, raqobatbardoshlik va boshqalar kabi biznes talablarini hisobga olish muhimdir.                                </li>                            </ul>                            <p>                                <strong>E'tibor bering:yuk</strong> - tizimdagi rejalashtirilgan yukni hisobga olish va ushbu yukni bajara oladigan arxitekturani tanlash muhimdir. Vazifa va talablarga qarab, tizim uchun mos arxitekturani tanlash mumkin.                            </p>                        </div>",
+          "en": "  <div>                            <h3>                                System architecture design                            </h3>                            <p>                                System architecture design is the process of creating a detailed plan of the structure and functioning of the system, which allows it to be effectively developed, deployed, used and maintained. Designing the system architecture is a key stage in the software development lifecycle.\u2028 </p>                            <p>                                In modern conditions, there are many approaches and technologies that can be used in the design of the system architecture. Among them are monolithic and microservice architectures, containerization, server and cloud computing, databases and much more.\u2028 </p>                            <h3>                                Efficiency factors                            </h3>                            <p>                                When designing the architecture of the system, it is necessary to take into account a number of factors that may affect the efficiency of its operation. Among them:                            </p>                            <ul>                                <li>                                    Functional requirements are the requirements that are imposed on the system in terms of its functionality. It is necessary to determine what tasks the system should perform and what capabilities should be implemented.                                </li>                                <li>                                    Non-functional requirements are requirements that are not related to the functionality of the system, but may affect its operation. These include requirements for performance, reliability, scalability, security, etc.                                </li>                                <li>                                    Architectural patterns are design patterns that are used to create efficient and sustainable systems. Among them are layered architecture, MVC, MVP, MVVM, Event-Driven architecture, etc.                                </li>                                <li>                                    Technologies and platforms - The choice of technologies and platforms depends on many factors, such as availability, cost, scalability, performance, etc.                                </li>                                <li>                                    Business requirements - It is important to consider business requirements such as development cost, time on the market, competitiveness, etc.                                </li>                            </ul>                            <p>                                <strong>Pay attention:</strong> - Load - it is important to take into account the planned load on the system and choose an architecture that can cope with this load. Depending on the task and requirements, you can choose the appropriate architecture for the system.                            </p>                        </div>"
+        },
+        "path":"/services/"
+      },
+      {
+        "id": 3,
+        "title": "Разработка UI/UX",
+        "author": "Global solutions",
+        "reading": {
+          "ru": "2 мин чтения",
+          "uz": "2 daqiqalar o'qish",
+          "en": "2 min of reading"
+        },
+        "subtitle": {
+          "ru": "Банкам, кредитным организациям",
+          "uz": "Banklar, kredit tashkilotlariga",
+          "en": "To banks, credit organizations"
+        },
+        "description": {
+          "ru": "Разработка UI/UX",
+          "uz": "UI/UX ishlab chiqi",
+          "en": "UI/UX Development"
+        },
+        "image": {
+          "ru": "/images/services/ux_ui.jpg",
+          "uz": "/images/services/ux_uiUz.jpg",
+          "en": "/images/services/ux_uiEn.jpg"
+        },
+        "date": {
+          "ru": "15 мая 2022 года, 15:45",
+          "uz": "15 may 2022, 15:45",
+          "en": "15 may 2022, 15:45"
+        },
+        "tag": {
+          "ru": "Разработка",
+          "uz": "Rivojlanish",
+          "en": "Development"
+        },
+        "content": {
+          "ru": "<div>                <h3>                    Разработка UI/UX                </h3>                <p>                    Разработка пользовательского интерфейса (UI) и пользовательского опыта (UX) являются одними из                    ключевых компонентов при создании любого цифрового продукта. UI определяет, как выглядит приложение                    или сайт, а UX – как оно работает и взаимодействует с пользователем. При этом, оба фактора являются                    критически важными для успешности проекта, поскольку они влияют на удобство использования продукта,                    а также на конверсию и удержание пользователей. Компания Global Solutions специализируется на                    разработке UI/UX для различных цифровых продуктов, таких как мобильные приложения, веб-сайты,                    программное обеспечение и другие. Наша команда UI/UX дизайнеров имеет богатый опыт в создании                    пользовательских интерфейсов, которые соответствуют последним тенденциям и наилучшим практикам в                    области дизайна.                </p>                <h3>                    Преимущества                </h3>                <p>                    При разработке UI/UX наша команда работает с заказчиком, чтобы определить цели и задачи продукта, а также требования к дизайну и взаимодействию с пользователем. Мы изучаем целевую аудиторию, чтобы понять их потребности и ожидания, и используем эту информацию для разработки соответствующего пользовательского опыта. Кроме того, мы следим за последними тенденциями в дизайне, чтобы создавать современные и эффективные пользовательские интерфейсы. Мы используем такие инструменты, как Sketch, Figma и Adobe XD для создания дизайн-макетов и прототипов, которые позволяют заказчику получить представление о том, как будет выглядеть и работать готовый продукт. Мы также обеспечиваем полное сопровождение на всех этапах разработки, от создания дизайн-макетов до тестирования и запуска продукта.                </p>                <p>                    Наша команда UI/UX специалистов тесно сотрудничает с другими специалистами нашей компании, такими как разработчики и тестировщики, чтобы обеспечить высокое качество и оптимальную производительность продукта. Таким образом, если вам нужен профессиональный UI/UX дизайн для вашего цифрового продукта, компания Global Solutions готова предложить свои услуги.                </p>            </div>",
+          "uz": " <div>                <h3>                    UI/UX ishlab chiqish                </h3>                <p>                    Foydalanuvchi interfeysi (UI) va foydalanuvchi tajribasini (UX) ishlab chiqish har qanday raqamli mahsulotni yaratishda asosiy tarkibiy qismlardan biridir. UI ilova yoki sayt qanday ko'rinishini va UX foydalanuvchi bilan qanday ishlashini va o'zaro ta'sirini aniqlaydi. Aytish joizki, ikkala omil ham loyihaning muvaffaqiyati uchun juda muhimdir, chunki ular mahsulotning qulayligiga, shuningdek foydalanuvchilarning konversiyasi va saqlanishiga ta'sir qiladi.                </p>                <p>                    Global dev mobil ilovalar, veb-saytlar, dasturiy ta'minot va boshqalar kabi turli xil raqamli mahsulotlar uchun UI/UX ni ishlab chiqishga ixtisoslashgan. Bizning UI / UX dizaynerlarimiz jamoasi eng so'nggi dizayn tendentsiyalari va eng yaxshi amaliyotlariga mos keladigan foydalanuvchi interfeyslarini yaratishda boy tajribaga ega.                </p>                <h3>                    Afzalliklari                </h3>                <p>                    UI/UX-ni ishlab chiqishda bizning jamoamiz mijoz bilan mahsulotning maqsad va vazifalarini, shuningdek dizayn va foydalanuvchi bilan ishlash talablarini aniqlash uchun ishlaydi. Biz maqsadli auditoriyani ularning ehtiyojlari va umidlarini tushunish uchun o'rganamiz va ushbu ma'lumotlardan tegishli foydalanuvchi tajribasini ishlab chiqish uchun foydalanamiz.                </p>                <p>                    Bundan tashqari, biz zamonaviy va samarali foydalanuvchi interfeyslarini yaratish uchun so'nggi dizayn tendentsiyalariga amal qilamiz. Biz Sketch, Figma va Adobe XD kabi vositalardan dizayn maketlari va prototiplarini yaratish uchun foydalanamiz, bu esa mijozga tayyor mahsulot qanday ko'rinishi va ishlashi haqida tasavvurga ega bo'lish imkonini beradi.                </p>                <p>                    <strong>Iltimos, diqqat qiling:</strong> shuningdek, biz dizayn maketlarini yaratishdan tortib, mahsulotni sinovdan o'tkazish va ishga tushirishgacha bo'lgan barcha rivojlanish bosqichlarida to'liq qo'llab-quvvatlaymiz. Bizning UI/UX mutaxassislarimiz jamoasi yuqori sifatli va optimal mahsulot unumdorligini ta'minlash uchun kompaniyamizning boshqa mutaxassislari, masalan, ishlab chiquvchilar va sinovchilar bilan yaqindan hamkorlik qiladi.                </p>                <p>                    Shunday qilib, agar siz raqamli mahsulotingiz uchun professional UI/UX dizaynini xohlasangiz, Global dev o'z xizmatlarini taklif qilishga tayyor.                </p>            </div>",
+          "en": "  <div>                <h3>                    UI/UX Development                </h3>                <p>                    The development of the user interface (UI) and user experience (UX) are among the key components in the creation of any digital product. UI defines what an application or website looks like, and UX defines how it works and interacts with the user. At the same time, both factors are critical to the success of the project, as they affect the usability of the product, as well as the conversion and retention of users.                </p>                <p>                    Global dev company specializes in UI/UX development for various digital products, such as mobile applications, websites, software and others. Our team of UI/UX designers has extensive experience in creating user interfaces that meet the latest trends and best practices in the field of design.                </p>                <h3>                    Advantages                </h3>                <p>                    When developing UI/UX, our team works with the customer to define the goals and objectives of the product, as well as the requirements for design and user interaction. We study the target audience to understand their needs and expectations, and use this information to develop an appropriate user experience.                </p>                <p>                    In addition, we follow the latest design trends to create modern and effective user interfaces. We use tools such as Sketch, Figma and Adobe XD to create design layouts and prototypes that allow the customer to get an idea of how the finished product will look and work.                </p>                <p>                    <strong>Pay attention: </strong> In addition, we follow the latest design trends to create modern and effective user interfaces. We use tools such as Sketch, Figma and Adobe XD to create design layouts and prototypes that allow the customer to get an idea of how the finished product will look and work.                </p>                <p>                    Thus, if you need a professional UI/UX design for your digital product, Global dev is ready to offer its services.                </p>            </div>"
+        },
+        "path":"/services/"
+      },
+      {
+        "id": 7,
+        "title": "Разработка мобильных приложений",
+        "author": "Global solutions",
+        "reading": {
+          "ru": "2 мин чтения",
+          "uz": "2 daqiqalar o'qish",
+          "en": "2 min of reading"
+        },
+        "subtitle": {
+          "ru": "Банкам, кредитным организациям",
+          "uz": "Banklar, kredit tashkilotlariga",
+          "en": "To banks, credit organizations"
+        },
+        "description": {
+          "ru": "Разработка мобильных приложений",
+          "uz": "Mobil ilovalarni ishlab chiqish",
+          "en": "Mobile application development"
+        },
+        "image": {
+          "ru": "/images/services/mob_dev.jpg",
+          "uz": "/images/services/mob_devUz.jpg",
+          "en": "/images/services/mob_devEn.jpg"
+
+        },
+        "date": {
+          "ru": "10 января 2023 года, 13:40",
+          "uz": "10 yanvar 2023, 13:40",
+          "en": "10 january 2023 13:40"
+        },
+        "tag": {
+          "ru": "Разработка",
+          "uz": "Rivojlanish",
+          "en": "Development"
+        },
+        "content": {
+          "ru": "<div>                            <h3>                                Разработка мобильных приложений                            </h3>                            <p>                                Проектная документация является одним из важнейших элементов успешной реализации проекта. Это документ, в котором описываются все аспекты проекта, начиная от его целей и задач и заканчивая конечным результатом. Проектная документация включает в себя несколько этапов: предварительный анализ, концепция проекта, техническое задание, руководство пользователя и т.д.                            </p><h3>    Разработка мобильных приложений</h3>                            <p>                                Разработка мобильных приложений — это одно из основных направлений деятельности компании Global solutions. Наша команда профессиональных разработчиков и дизайнеров создаёт качественные и современные приложения для операционных систем Android и iOS. Мы предлагаем полный цикл разработки мобильных приложений - от идеи до готового продукта. Наш подход включает в себя не только разработку приложения, но и его тестирование и поддержку после запуска. Мы обладаем опытом работы с различными категориями приложений - от развлекательных до бизнес-приложений. Ключевыми преимуществами работы с нами: Профессиональный подход.                            </p>                            <p>                                Мы обладаем опытом работы с различными технологиями и языками программирования, что позволяет нам разрабатывать приложения высокого качества и современного дизайна.Индивидуальный подход к каждому проекту. Мы не используем шаблонных решений, каждый проект рассматривается индивидуально и находится оптимальное решение для его реализации.Соблюдение сроков. Мы понимаем, что для наших клиентов сроки являются важным фактором, поэтому мы придерживаемся договоренностей и стараемся выполнить работу в срок.Прозрачность в работе.                            </p>                            <p>                                Мы обладаем опытом работы с различными технологиями и языками программирования, что позволяет нам разрабатывать приложения высокого качества и современного дизайна.Индивидуальный подход к каждому проекту. Мы не используем шаблонных решений, каждый проект рассматривается индивидуально и находится оптимальное решение для его реализации.Соблюдение сроков. Мы понимаем, что для наших клиентов сроки являются важным фактором, поэтому мы придерживаемся договоренностей и стараемся выполнить работу в срок.Прозрачность в работе.                            </p>                        </div>",
+          "uz": "<div>                            <h3>                                Mobil ilovalarni ishlab chiqish                            </h3>                            <p>                                Mobil ilovalarni ishlab chiqish Global dev kompaniyasining asosiy yo'nalishlaridan biridir. Bizning professional ishlab chiquvchilarimiz va dizaynerlarimiz jamoasi Android va iOS operatsion tizimlari uchun sifatli va zamonaviy ilovalarni yaratmoqda.                            </p><p>    Mobil ilovalarni ishlab chiqish Global dev kompaniyasining asosiy yo'nalishlaridan biridir. Bizning professional ishlab chiquvchilarimiz va dizaynerlarimiz jamoasi Android va iOS operatsion tizimlari uchun sifatli va zamonaviy ilovalarni yaratmoqda.</p>                            <p>                                Mobil ilovalarni ishlab chiqish Global dev kompaniyasining asosiy yo'nalishlaridan biridir. Bizning professional ishlab chiquvchilarimiz va dizaynerlarimiz jamoasi Android va iOS operatsion tizimlari uchun sifatli va zamonaviy ilovalarni yaratmoqda.                            </p>                            <ul>                                <li>                                    Professional yondashuv. Biz turli xil texnologiyalar va dasturlash tillari bo'yicha tajribaga egamiz, bu bizga yuqori sifatli va zamonaviy dizayndagi dasturlarni ishlab chiqishga imkon beradi.                                </li>                                <li>                                    Har bir loyihaga individual yondashuv. Biz shablon echimlaridan foydalanmaymiz, har bir loyiha alohida ko'rib chiqiladi va uni amalga oshirish uchun maqbul echim topiladi.                                </li>                                <li>                                    Belgilangan muddatlarga rioya qilish. Biz mijozlarimiz uchun muddatlar muhim omil ekanligini tushunamiz, shuning uchun biz kelishuvlarga rioya qilamiz va ishni o'z vaqtida bajarishga harakat qilamiz.                                </li>                                <li>                                    Ishdagi shaffoflik. Biz mijozlarimizni hurmat qilamiz va rivojlanish jarayonida ochiq muloqotni davom ettirishga harakat qilamiz.                                </li>                            </ul>                            <p>                                Bundan tashqari, biz mobil rivojlanishning so'nggi tendentsiyalarini kuzatib boramiz va mijozlarimizga bozorda muvaffaqiyat qozonishlariga yordam beradigan innovatsion echimlarni taklif etamiz.                            </p>                            <p>                                Iltimos, diqqat qiling: mobil ilovalarni ishlab chiqish jarayonida biz Agile va Scrum kabi zamonaviy metodologiyalardan foydalanamiz, bu bizga loyihani samarali boshqarish va maqsadlarimizga erishish imkonini beradi.                            </p>                        </div><div>                            <h3>                                Mobil ilovalarni ishlab chiqish                            </h3>                            <p>                                Mobil ilovalarni ishlab chiqish Global dev kompaniyasining asosiy yo'nalishlaridan biridir. Bizning professional ishlab chiquvchilarimiz va dizaynerlarimiz jamoasi Android va iOS operatsion tizimlari uchun sifatli va zamonaviy ilovalarni yaratmoqda.                            </p><p>    Mobil ilovalarni ishlab chiqish Global dev kompaniyasining asosiy yo'nalishlaridan biridir. Bizning professional ishlab chiquvchilarimiz va dizaynerlarimiz jamoasi Android va iOS operatsion tizimlari uchun sifatli va zamonaviy ilovalarni yaratmoqda.</p>                            <p>                                Mobil ilovalarni ishlab chiqish Global dev kompaniyasining asosiy yo'nalishlaridan biridir. Bizning professional ishlab chiquvchilarimiz va dizaynerlarimiz jamoasi Android va iOS operatsion tizimlari uchun sifatli va zamonaviy ilovalarni yaratmoqda.                            </p>                            <ul>                                <li>                                    Professional yondashuv. Biz turli xil texnologiyalar va dasturlash tillari bo'yicha tajribaga egamiz, bu bizga yuqori sifatli va zamonaviy dizayndagi dasturlarni ishlab chiqishga imkon beradi.                                </li>                                <li>                                    Har bir loyihaga individual yondashuv. Biz shablon echimlaridan foydalanmaymiz, har bir loyiha alohida ko'rib chiqiladi va uni amalga oshirish uchun maqbul echim topiladi.                                </li>                                <li>                                    Belgilangan muddatlarga rioya qilish. Biz mijozlarimiz uchun muddatlar muhim omil ekanligini tushunamiz, shuning uchun biz kelishuvlarga rioya qilamiz va ishni o'z vaqtida bajarishga harakat qilamiz.                                </li>                                <li>                                    Ishdagi shaffoflik. Biz mijozlarimizni hurmat qilamiz va rivojlanish jarayonida ochiq muloqotni davom ettirishga harakat qilamiz.                                </li>                            </ul>                            <p>                                Bundan tashqari, biz mobil rivojlanishning so'nggi tendentsiyalarini kuzatib boramiz va mijozlarimizga bozorda muvaffaqiyat qozonishlariga yordam beradigan innovatsion echimlarni taklif etamiz.                            </p>                            <p>                                Iltimos, diqqat qiling: mobil ilovalarni ishlab chiqish jarayonida biz Agile va Scrum kabi zamonaviy metodologiyalardan foydalanamiz, bu bizga loyihani samarali boshqarish va maqsadlarimizga erishish imkonini beradi.                            </p>                        </div>",
+          "en": "<div>                            <h3>                                Mobile application development                            </h3>                            <p>                                Mobile application development is one of the main activities of Global dev. Our team of professional developers and designers creates high-quality and modern applications for Android and iOS operating systems.                            </p><p>    We offer a full cycle of mobile application development - from the idea to the finished product. Our approach includes not only the development of the application, but also its testing and support after launch. We have experience working with various categories of applications - from entertainment to business applications.</p>                            <p><strong>We offer a full cycle of mobile application development - from the idea to the finished product. Our approach includes not only the development of the application, but also its testing and support after launch. We have experience working with various categories of applications - from entertainment to business applications.</strong>                            </p>                            <ul>                                <li>                                    Professional approach. We have experience working with various technologies and programming languages, which allows us to develop applications of high quality and modern design.                                </li>                                <li>                                    Individual approach to each project. We do not use template solutions, each project is considered individually and the optimal solution for its implementation is found.                                </li>                                <li>                                    Compliance with deadlines. We understand that deadlines are an important factor for our clients, so we adhere to the agreements and try to do the work on time.                                </li>                                <li>                                    Transparency in work. We respect our customers and try to maintain open communication throughout the development process.                                </li>                            </ul>                            <p>                                In addition, we follow the latest trends in mobile development and offer innovative solutions that can help our customers succeed in the market.                            </p>                            <p>                                <strong>Pay attention:</strong> In the process of developing mobile applications, we use modern methodologies, such as Agile and Scrum, which allow us to effectively manage the project and achieve our goals.                            </p>                        </div>"
+        },
+        "path":"/services/"
+      },
+      {
+        "id": 2,
+        "title": "QA/тестирование",
+        "author": "Global solutions",
+        "reading": {
+          "ru": "2 мин чтения",
+          "uz": "2 daqiqalar o'qish",
+          "en": "2 min of reading"
+        },
+        "subtitle": {
+          "ru": "Банкам, кредитным организациям",
+          "uz": "Banklar, kredit tashkilotlariga",
+          "en": "To banks, credit organizations"
+        },
+        "description": {
+          "ru": "QA/тестирование",
+          "uz": "QA/sinov",
+          "en": "QA/testing"
+        },
+        "image": {
+          "ru": "/images/services/qa.jpg",
+          "uz": "/images/services/qaUz.jpg",
+          "en": "/images/services/qaEn.jpg"
+
+        },
+        "date": {
+          "ru": "12 февраля 2023 года, 11:20",
+          "uz": "12 fevral 2023, 11:20",
+          "en": "12 february 2023, 11:20"
+        },
+        "tag": {
+          "ru": "Разработка",
+          "uz": "Rivojlanish",
+          "en": "Development"
+        },
+        "content": {
+          "ru": "    <div>                            <h3>                                QA/тестирование                            </h3>                            <p>                                QA/тестирование является одним из важнейших этапов разработки программного обеспечения, которое позволяет обнаружить и исправить ошибки и дефекты в процессе разработки.                            </p><p>    Компания Global Solutions предоставляет услуги по QA/тестированию для различных видов программного обеспечения, включая веб-приложения, мобильные приложения, настольные приложения и другие.</p>                            <p>                                Наша команда тестирования имеет профессиональные знания и опыт, необходимые для тестирования программного обеспечения на разных уровнях - от модульного тестирования до системного тестирования и пользовательского тестирования.                            </p>                            <h3>                                Процесс тестирования                            </h3>                            <p>                                Мы разрабатываем тестовые планы, которые включают в себя тестовые сценарии, тестовые данные, методы тестирования, ожидаемые результаты и метрики качества. Мы используем различные методы тестирования, включая ручное тестирование, автоматизированное тестирование и тестирование с использованием фреймворков, чтобы обеспечить максимальное покрытие кода и выявить все возможные дефекты.                            </p>                            <p>                                Мы также предоставляем услуги по функциональному тестированию, тестированию производительности, тестированию безопасности, тестированию совместимости и другим видам тестирования. Мы гарантируем качество нашей работы и обеспечиваем своевременное выполнение всех задач.                            </p>                            <p>                                Компания Global Solutions поможет вам обнаружить и исправить все дефекты и ошибки в вашем программном обеспечении, что позволит вам достичь высокого уровня качества продукта и удовлетворения клиентов.                            </p>                        </div>",
+          "uz": "  <div>                            <h3>                                QA / sinov                            </h3>                            <p>                                QA / sinov dasturiy ta'minotni ishlab chiqishning eng muhim bosqichlaridan biri bo'lib, u ishlab chiqish jarayonida xato va nuqsonlarni aniqlash va tuzatishga imkon beradi. Global dev veb-ilovalar, mobil ilovalar, ish stoli ilovalari va boshqalarni o'z ichiga olgan turli xil dasturiy ta'minot uchun QA/sinov xizmatlarini taqdim etadi.                            </p><p>    Bizning sinov guruhimiz dasturiy ta'minotni turli darajalarda sinab ko'rish uchun zarur bo'lgan professional bilim va tajribaga ega - birlik sinovlaridan tortib tizim sinovlarigacha, foydalanuvchi sinovlarigacha.</p>                            <h3>                                Sinov jarayoni                            </h3>                            <p>                                Biz test stsenariylari, test ma'lumotlari, test usullari, kutilgan natijalar va sifat ko'rsatkichlarini o'z ichiga olgan test rejalarini ishlab chiqamiz. Kodni maksimal darajada qamrab olish va yuzaga kelishi mumkin bo'lgan barcha nuqsonlarni aniqlash uchun biz turli xil sinov usullaridan foydalanamiz, jumladan qo'lda sinov, avtomatlashtirilgan sinov va ramkalar yordamida sinov.                            </p>                            <p>                                Shuningdek, biz funktsional test, ishlash testi, xavfsizlik testi, moslik testi va boshqa turdagi test xizmatlarini taqdim etamiz. Biz ishimiz sifatini kafolatlaymiz va barcha vazifalarning o'z vaqtida bajarilishini ta'minlaymiz.                            </p>                            <p>                                <strong>Iltimos, diqqat qiling:</strong> Global dev sizga dasturiy ta'minotingizdagi barcha nuqsonlar va xatolarni aniqlash va tuzatishga yordam beradi, bu sizga mahsulot sifati va mijozlar ehtiyojini qondirishning yuqori darajasiga erishishga imkon beradi.                            </p>                        </div>",
+          "en": "<div>                            <h3>                                QA/testing                            </h3>                            <p>                                QA/testing is one of the most important stages of software development, which allows you to detect and correct errors and defects in the development process. Global dev provides QA/testing services for various types of software, including web applications, mobile applications, desktop applications and others.                            </p><p>    Our testing team has the professional knowledge and experience needed to test software at various levels - from unit testing to system testing and user testin</p>                            <h3>                                Testing process                            </h3>                            <p>                                We develop test plans that include test scenarios, test data, test methods, expected results and quality metrics. We use various testing methods, including manual testing, automated testing and testing using frameworks, to ensure maximum code coverage and identify all possible defects.                            </p>                            <p>                                We also provide services for functional testing, performance testing, security testing, compatibility testing and other types of testing. We guarantee the quality of our work and ensure timely completion of all tasks.                            </p>                            <p>                                <strong>Please note: </strong> Global dev Company will help you to detect and correct all defects and errors in your software, which will allow you to achieve a high level of product quality and customer satisfaction.                            </p>                        </div>"
+        },
+        "path":"/services/"
+      },
+      {
+        "id": 9,
+        "title": "Серверная инфаструктура, DevOps",
+        "author": "Global solutions",
+        "reading": {
+          "ru": "2 мин чтения",
+          "uz": "2 daqiqalar o'qish",
+          "en": "2 min of reading"
+        },
+        "subtitle": {
+          "ru": "Банкам, кредитным организациям",
+          "uz": "Banklar, kredit tashkilotlariga",
+          "en": "To banks, credit organizations"
+        },
+        "description": {
+          "ru": "Серверная инфаструктура, DevOps",
+          "uz": "Server infratuzilmasi, DevOps",
+          "en": "Server infrastructure, DevOps"
+        },
+        "image": {
+          "ru": "/images/services/server_structure.jpg",
+          "uz": "/images/services/server_structureUz.jpg",
+          "en": "/images/services/server_structureEn.jpg"
+        },
+        "date": {
+          "ru": "28 февраля 2023 года, 14:40",
+          "uz": "28 fevral 2023, 14:40",
+          "en": "28 february 2023, 14:40"
+        },
+        "tag": {
+          "ru": "Разработка",
+          "uz": "Rivojlanish",
+          "en": "Development"
+        },
+        "content": {
+          "ru": "<div>                            <h3>                                Серверная инфраструктура, DevOps                            </h3>                            <p>                                Серверная инфраструктура, DevOps Компания Global Soluitons предоставляет услуги по проектированию, развертыванию и поддержке серверной инфраструктуры, а также услуги по DevOps для вашего бизнеса.                            </p><p>    Наша команда специалистов поможет вам создать масштабируемую, высокодоступную и надежную инфраструктуру, которая позволит вашему бизнесу работать эффективно и безопасно.</p>                            <p>                                Мы специализируемся на использовании современных технологий и инструментов, которые позволяют управлять серверной инфраструктурой и разворачивать приложения в облаке.                            </p>                            <p>                                Мы специализируемся на использовании современных технологий и инструментов, которые позволяют управлять серверной инфраструктурой и разворачивать приложения в облаке.                            </p>                            <h3>                                Наше преимущество                            </h3>                            <p>                                Мы также предоставляем услуги по DevOps, которые включают в себя автоматизацию процессов разработки и развертывания приложений, контроль версий, тестирование и мониторинг.                            </p>                            <p>                                Наша команда разрабатывает скрипты и инструменты для автоматизации процессов, что позволяет ускорить развертывание приложений и сократить время доставки новых функций в продукт.                            </p>                            <p>                                Мы также предоставляем услуги по мониторингу и управлению серверами, что позволяет нам быстро обнаруживать и устранять проблемы с серверами и приложениями                            </p>                            <p>                                Мы также разрабатываем стратегии резервного копирования и восстановления данных, чтобы гарантировать безопасность и надежность вашей инфраструктуры.                            </p>                            <p>                                Сотрудничая с компанией Global Solutions, вы можете быть уверены в том, что ваша серверная инфраструктура будет настроена и поддерживается в соответствии с лучшими практиками и стандартами безопасности. Мы работаем в тесном контакте с нашими клиентами, чтобы гарантировать, что мы понимаем их бизнес-потребности и предоставляем решения, которые наилучшим образом соответствуют их требованиям.                            </p>                          </div>",
+          "uz": " <div>                            <h3>                                Server infratuzilmasi, DevOps                            </h3>                            <p>                                Global dev sizning biznesingiz uchun DevOps xizmatlari bilan bir qatorda server infratuzilmasini loyihalash, joylashtirish va qo'llab-quvvatlash xizmatlarini taqdim etadi. Bizning mutaxassislar jamoasi sizning biznesingizni samarali va xavfsiz ishlashiga imkon beradigan kengaytiriladigan, yuqori darajada mavjud va ishonchli infratuzilmani yaratishda sizga yordam beradi.                            </p><p>    Biz server infratuzilmasini boshqarish va bulutda ilovalarni kengaytirish imkonini beruvchi zamonaviy texnologiyalar va vositalardan foydalanishga ixtisoslashganmiz. Biz AWS, Azure, Google Cloud, DigitalOcean va boshqalar kabi platformalar bilan ishlaymiz va sizga biznesingiz uchun to'g'ri platformani tanlashda yordam bera olamiz.</p>                            <h3>                                Bizning ustunligimiz                            </h3>                            <p>                                Shuningdek, biz DevOps xizmatlarini taqdim etamiz, ular dasturlarni ishlab chiqish va joylashtirish jarayonlarini avtomatlashtirish, versiyalarni boshqarish, sinov va monitoringni o'z ichiga oladi. Bizning jamoamiz jarayonlarni avtomatlashtirish uchun skriptlar va vositalarni ishlab chiqmoqda, bu esa ilovalarni tezroq joylashtirish va mahsulotga yangi funksiyalarni yetkazib berish vaqtini qisqartirish imkonini beradi.                            </p>                            <p>                                Shuningdek, biz serverlar va ilovalar bilan bog'liq muammolarni tezda aniqlash va hal qilish imkonini beruvchi serverlarni kuzatish va boshqarish xizmatlarini taqdim etamiz. Shuningdek, biz sizning infratuzilmangiz xavfsizligi va ishonchliligini ta'minlash uchun ma'lumotlarni zaxiralash va tiklash strategiyalarini ishlab chiqamiz.                            </p>                            <p>                                <strong>Iltimos, diqqat qiling:</strong> Global dev kompaniyasi bilan hamkorlik qilib, server infratuzilmangiz eng yaxshi amaliyot va xavfsizlik standartlariga muvofiq sozlanishi va qo'llab-quvvatlanishiga ishonch hosil qilishingiz mumkin. Biz mijozlarimiz bilan ularning biznes ehtiyojlarini tushunishimiz va ularning talablariga eng mos keladigan echimlarni taqdim etishimiz uchun yaqindan ishlaymiz.                            </p>                        </div>",
+          "en": "<div>                            <h3>                                Server infrastructure, DevOps                            </h3>                            <p>                                Global dev provides services for the design, deployment and support of server infrastructure, as well as DevOps services for your business. Our team of specialists will help you create a scalable, highly accessible and reliable infrastructure that will allow your business to operate efficiently and safely.                            </p><p>    We specialize in using modern technologies and tools that allow you to manage server infrastructure and deploy applications in the cloud. We work with platforms such as AWS, Azure, Google Cloud, DigitalOcean and others, and can help you choose the right platform for your business.</p>                            <h3>                                Our advantage                            </h3>                            <p>                                We also provide DevOps services, which include automation of application development and deployment processes, version control, testing and monitoring. Our team develops scripts and tools for automating processes, which allows you to speed up the deployment of applications and reduce the delivery time of new features to the product.                            </p>                            <p>                                We also provide server monitoring and management services, which allows us to quickly detect and fix problems with servers and applications. We also develop data backup and recovery strategies to ensure the security and reliability of your infrastructure.                            </p>                            <p>                                <strong>Please note:</strong> By cooperating with Global dev, you can be sure that your server infrastructure will be configured and maintained in accordance with the best practices and security standards. We work closely with our customers to ensure that we understand their business needs and provide solutions that best meet their requirements.                            </p>                        </div>"
+        },
+        "path":"/services/"
+      }
+    ]
+  },
+  {
+    "key": "global-pay",
+    "title": "Payment",
+    "article": [
+      {
+        "id": 2,
+        "title": "IT консалтинг",
+        "author": "Global Pay",
+        "reading": {
+          "ru": "1 мин чтения",
+          "uz": "1 daqiqalar o'qish",
+          "en": "1 min of reading"
+        },
+        "subtitle": {
+          "ru": "Банкам, кредитным организациям",
+          "uz": "Banklar, kredit tashkilotlariga",
+          "en": "To banks, credit organizations"
+        },
+        "description": {
+          "ru": "Авторасщепление по платёжным счетам",
+          "uz": "«Avtomatik ravishda bo'lish» xizmati",
+          "en": "Auto split service"
+        },
+        "image": {
+          "ru": "/images/globalPay/96.jpg",
+          "uz": "/images/globalPay/96uZ.jpg",
+          "en": "/images/globalPay/96eN.jpg"
+        },
+        "date": {
+          "ru": "21 ноября 2022, 15:45",
+          "uz": "21 noyabr 2022, 15:45",
+          "en": "21 november 2022, 15:45"
+        },
+        "tag": {
+          "ru": "Платёж",
+          "uz": "To'lov",
+          "en": "Payment"
+        },
+        "content": {
+          "ru": "<div><p>Вы можете воспользоваться функцией автоматического разделения платежа по разным счетам с одного списания.<br><br>Благодаря этой возможности Вам не обязательно нанимать бухгалтера, либо усложнять его работу путем необходимости ручного разделения транзакций по итогу месяца, что существенно сэкономит Ваше время и деньги.<br><br>Автоматическое разделение средств между одним или несколькими сторонами снижает вашу рабочую нагрузку и позволяет осуществлять платежи в режиме реального времени.</p></div>",
+          "uz": "<div><p>Siz bitta hisobdan chiqarishdan turli hisoblar bo’yicha to'lovlarni avtomatik taqsimlash funksiyasidan foydalanishingiz mumkin.<br><br>Ushbu imkoniyat natijasida siz buxgalterni yollashingiz yoki oy oxirigacha operatsiyalarni qo'lda ajratish orqali uning ishini murakkablashtirishingiz shart emas, bu sizning vaqtingiz va pulingizni sezilarli darajada tejaydi.<br><br> Bir yoki bir nechta tomonlar o'rtasida pul mablag'larini avtomatik ravishda taqsimlash sizning ish yukingizni kamaytiradi va real vaqtda to'lovlarni amalga oshirish imkonini beradi.</p></div>",
+          "en": "<div><p>You can use the function of automatic payment splitting for different accounts from one debit.<br><br>Thanks to this feature, you do not have to hire an accountant, or complicate his work by manually separating transactions by the end of the month, which will significantly save your time and money.<br><br> Automatic splitting of funds between one or more parties reduces your workload and enables real-time payments.</p></div>"
+        },
+        "path":"/global-pay/services/"
+      },
+      {
+        "id": 5,
+        "title": "IT консалтинг",
+        "author": "Global Pay",
+        "reading": {
+          "ru": "3 мин чтения",
+          "uz": "3 daqiqalar o'qish",
+          "en": "3 min of reading"
+        },
+        "subtitle": {
+          "ru": "Банкам, кредитным организациям",
+          "uz": "Banklar, kredit tashkilotlariga",
+          "en": "To banks, credit organizations"
+        },
+        "description": {
+          "ru": "Приём платежей через Telegram",
+          "uz": "O'zini-o'zi band qilganlar uchun Telegram bot",
+          "en": "Telegram - bot for self-employed people"
+        },
+        "image": {
+          "ru": "/images/globalPay/94.jpg",
+          "uz": "/images/globalPay/94uZ.jpg",
+          "en": "/images/globalPay/94eN.jpg"
+        },
+        "date": {
+          "ru": "7 декабря 2022, 09:30",
+          "uz": "7 dekabr 2022, 09:30",
+          "en": "7 december 2022, 09:30"
+        },
+        "tag": {
+          "ru": "Платёж",
+          "uz": "To'lov",
+          "en": "Payment"
+        },
+        "content": {
+          "ru": "<div class='tg-bot'><p>Вы самозанятый? И продаете свои товары (услуги) через Telegram? У нас для Вас отличная новость! Мы запустили специальный Telegram бот для самозанятых. С помощью бота Вы сможете создавать ссылку для оплаты Ваших продуктов (услуг) и отправлять их в свои Telegram группы или в чаты, а покупатели смогут оплачивать, не переходя на другие ресурсы.<br><br>Для создания ссылки для оплаты Вам необходимо запустить бот и отправить картинку Вашего продукта (услуги).</p><img src='/images/globalPay/tg1.png' alt=''/><p>Далее Вам необходимо ввести короткое название инвойса.</p><img src='/images/globalPay/tg2.png' alt=''/><p>Далее нужно ввести описание к Вашему продукту или услуге.</p><img src='/images/globalPay/tg3.png' alt=''/><p>Следующий шаг – необходимо ввести сумму к оплате и нажать кнопку «Создать пост с оплатой».</p><img src='/images/globalPay/tg4.png' alt=''/><p>Готово! Теперь Вы сможете пересылать ссылку на оплату своим покупателям.<br><br>Покупателям для оплаты необходимо будет привязать карту оплаты Uzcard или Humo.</p><div class='tg-img'><img src='/images/globalPay/tg5.png' alt=''/><img src='/images/globalPay/tg6.png' alt=''/></div></div>",
+          "uz": "<div class='tg-bot'><p>Siz o'zini-o'zi band qilgan insonmisiz? Va o’z mahsulotlar (xizmatlar)ingizni Telegram orqali sotasizmi? Bizda siz uchun ajoyib yangilik bor! Biz o’zini-o’zi band qilganlar uchun maxsus Telegram botni ishga tushirdik. Bor orqali siz mahsulotingiz (xizmatlaringiz) uchun toʻlovni amalga oshirishga havola yaratishingiz va ularni Telegramdagi guruhlaringiz yoki chatlaringizga yuborishingiz mumkin, xaridorlar esa boshqa resurslarga oʻtmasdan to’lovni amalga oshirishlari mumkin boʻladi.<br><br> To'lovni amalga oshirish maqsadida havolani yaratish uchun siz botni ishga tushirishingiz va mahsulotingizning (xizmatlar) rasmini yuborishingiz kerak.</p><img src='/images/globalPay/tg1.png' alt=''/><p> Keyin esa invoysning qisqa nomini kiritishingiz kerak.</p><img src='/images/globalPay/tg2.png' alt=''/><p> So’ngra mahsulot yoki xizmatingiz tavsifini kiritishingiz kerak.</p><img src='/images/globalPay/tg3.png' alt=''/><p>Keyin bosqich - to'lanishi kerak bo'lgan miqdorni kiritish va «To'lovga ega postni yaratish» tugmasini bosish kerak.</p><img src='/images/globalPay/tg4.png' alt=''/><p>Tayyor! Endi siz mijozlaringizga to'lov uchun havolani yuborishingiz mumkin.<br><br> Toʻlovni amalga oshirish uchun xaridorlar Uzcard yoki Humo toʻlov kartasini ulashlari kerak boʻladi.</p><div class='tg-img'><img src='/images/globalPay/tg5.png' alt=''/><img src='/images/globalPay/tg6.png' alt=''/></div></div>",
+          "en": "<div class='tg-bot'><p>Are you a self-employed person? And sell your goods (services) via Telegram? We have great news for you! We launched a special Telegram bot for self-employed people. Using the bot, you can create a link to pay for your products (services) and send them to your Telegram groups or chats, and buyers will be able to pay without switching to other resources.<br><br> To create a payment link, you need to launch the bot and send a picture of your product (services).</p><img src='/images/globalPay/tg1.png' alt=''/><p> Then you need to enter a short name of invoice.</p><img src='/images/globalPay/tg2.png' alt=''/><p> Next, you need to enter a description for your product or service.</p><img src='/images/globalPay/tg3.png' alt=''/><p> The next step – you need to enter the amount to be paid and click the button «Create a post with payment».</p><img src='/images/globalPay/tg4.png' alt=''/><p> Ready! Now you can send a payment link to your customers.<br><br> For payment, buyers will need to attach Uzcard or Humo payment card.</p><div class='tg-img'><img src='/images/globalPay/tg5.png' alt=''/><img src='/images/globalPay/tg6.png' alt=''/></div></div>"
+        },
+        "path":"/global-pay/services/"
+      }
+    ]
+  },
+  {
+    "title": "Global ID",
+    "key": "global-id",
+    "article": [
+      {
+        "id": 1,
+        "title": "IT консалтинг",
+        "description": {
+          "ru": "Автосписание в кабинете мерчанта",
+          "uz": "Savdogar kabinetida avtomatik ravishda hisobdan chiqarish",
+          "en": "Автосписание в кабинете мерчанта"
+        },
+        "image": "/images/globalPay/93.png",
+        "date": "13 декабря 2021, 18:50",
+        "tag": {
+          "ru": "Платёж",
+          "uz": "To'lov",
+          "en": "Платёж"
+        },
+        "content": "<div><img src='/images/globalPay/93.png'/><p>Test</p></div>"
+
+      },
+      {
+        "id": 2,
+        "title": "IT консалтинг",
+        "description": {
+          "ru": "Автосписание в кабинете мерчанта",
+          "uz": "Savdogar kabinetida avtomatik ravishda hisobdan chiqarish",
+          "en": "Автосписание в кабинете мерчанта"
+        },
+        "image": "/images/globalPay/93.png",
+        "date": "13 декабря 2021, 18:50",
+        "tag": {
+          "ru": "Платёж",
+          "uz": "To'lov",
+          "en": "Платёж"
+        }
+      },
+      {
+        "id": 3,
+        "title": "IT консалтинг",
+        "description": {
+          "ru": "Автосписание в кабинете мерчанта",
+          "uz": "Savdogar kabinetida avtomatik ravishda hisobdan chiqarish",
+          "en": "Автосписание в кабинете мерчанта"
+        },
+        "image": "/images/globalPay/93.png",
+        "date": "13 декабря 2021, 18:50",
+        "tag": {
+          "ru": "Платёж",
+          "uz": "To'lov",
+          "en": "Платёж"
+        }
+      },
+      {
+        "id": 4,
+        "title": "IT консалтинг",
+        "description": {
+          "ru": "Автосписание в кабинете мерчанта",
+          "uz": "Savdogar kabinetida avtomatik ravishda hisobdan chiqarish",
+          "en": "Автосписание в кабинете мерчанта"
+        },
+        "image": "/images/globalPay/93.png",
+        "date": "13 декабря 2021, 18:50",
+        "tag": {
+          "ru": "Платёж",
+          "uz": "To'lov",
+          "en": "Платёж"
+        }
+      },
+      {
+        "id": 5,
+        "title": "IT консалтинг",
+        "description": {
+          "ru": "Автосписание в кабинете мерчанта",
+          "uz": "Savdogar kabinetida avtomatik ravishda hisobdan chiqarish",
+          "en": "Автосписание в кабинете мерчанта"
+        },
+        "image": "/images/globalPay/93.png",
+        "date": "13 декабря 2021, 18:50",
+        "tag": {
+          "ru": "Платёж",
+          "uz": "To'lov",
+          "en": "Платёж"
+        }
+      },
+      {
+        "id": 6,
+        "title": "IT консалтинг",
+        "description": {
+          "ru": "Автосписание в кабинете мерчанта",
+          "uz": "Savdogar kabinetida avtomatik ravishda hisobdan chiqarish",
+          "en": "Автосписание в кабинете мерчанта"
+        },
+        "image": "/images/globalPay/93.png",
+        "date": "13 декабря 2021, 18:50",
+        "tag": {
+          "ru": "Платёж",
+          "uz": "To'lov",
+          "en": "Платёж"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="29px" viewBox="0 0 28 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="payment-modal-sms" transform="translate(-1366.000000, -325.000000)">
+            <g id="Group-4" transform="translate(1366.000000, 325.000000)">
+                <path d="M4,0 L24,0 C26.209139,-4.05812251e-16 28,1.790861 28,4 L28,18.129104 C28,20.338243 26.209139,22.129104 24,22.129104 L7.62312045,22.129104 L7.62312045,22.129104 L0,29 L0,22.129104 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#FF6A46"></path>
+                <path d="M15.7167969,15.78125 L15.7167969,5 L14.046875,5 C13.8125,5.65429688 13.3803711,6.22680664 12.7504883,6.7175293 C12.1206055,7.20825195 11.5371094,7.54150391 11,7.71728516 L11,7.71728516 L11,9.58496094 C12.0205078,9.24804688 12.9067383,8.72802734 13.6586914,8.02490234 L13.6586914,8.02490234 L13.6586914,15.78125 L15.7167969,15.78125 Z" id="1" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
